@@ -15,3 +15,17 @@ Wybór najbardziej znanych kanałów. Każdy kanał jest w formacie `.geojson`. 
 
 # Zalewy
 Wybór najbardziej znanych zalewów. Każdy zalew jest w formacie `.geojson`. Uporządkowane i ujednolicone dane z OpenStreetMap.
+
+# Miasta
+Jest to zbiór najważniejszych/najpopularniejszych miast w Polsce:
+* Warszawa
+* Wrocław
+* Kraków
+* Gdańsk
+* Katowice
+* Bydgoszcz
+* Szczecin
+* Poznań
+* Lublin
+* Białystok
+* Rzeszów
