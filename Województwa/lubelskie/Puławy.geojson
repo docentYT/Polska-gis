@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:14:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/362654902",
+        "is_in:county": "powiat puławski",
+        "is_in:municipality": "gmina Puławy",
+        "is_in:province": "województwo lubelskie",
+        "name": "Puławy",
+        "name:lt": "Pulavai",
+        "name:mk": "Пулави",
+        "name:pl": "Puławy",
+        "name:ru": "Пулавы",
+        "name:uk": "Пулави",
+        "old_name:ru": "Новоалександрия",
+        "place": "town",
+        "population": "49100",
+        "postal_code": "24-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0956810",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0614011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q320007",
+        "wikipedia": "pl:Puławy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9720582,
+          51.4171713
+        ]
+      },
+      "id": "node/362654902"
+    }
+  ]
+}

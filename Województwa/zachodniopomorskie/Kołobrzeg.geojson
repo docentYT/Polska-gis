@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:13:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1523247400",
+        "is_in:county": "powiat kołobrzeski",
+        "is_in:municipality": "Kołobrzeg",
+        "is_in:province": "województwo zachodniopomorskie",
+        "license_plate_code": "ZKL",
+        "name": "Kołobrzeg",
+        "name:cs": "Kolobřeh",
+        "name:de": "Kolberg",
+        "name:en": "Kołobrzeg",
+        "name:lt": "Kolobžegas",
+        "name:pl": "Kołobrzeg",
+        "name:prefix": "miasto",
+        "name:prefix:de": "Stadt",
+        "name:prefix:en": "Town of",
+        "name:prefix:pl": "miasto",
+        "name:ru": "Колобжег",
+        "name:uk": "Колобжег",
+        "place": "town",
+        "population": "44980",
+        "postal_code": "78-100",
+        "teryt:simc": "0950026",
+        "wikidata": "Q110011",
+        "wikipedia": "pl:Kołobrzeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.5764209,
+          54.1759614
+        ]
+      },
+      "id": "node/1523247400"
+    }
+  ]
+}

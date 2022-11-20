@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:01:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1854937237",
+        "name": "Zakopane",
+        "name:cs": "Zakopané",
+        "name:he": "זקופנה",
+        "name:lt": "Zakopanė",
+        "name:pl": "Zakopane",
+        "name:ru": "Закопане",
+        "name:sk": "Zakopané",
+        "name:uk": "Закопане",
+        "place": "town",
+        "population": "27442",
+        "teryt:simc": "0963773",
+        "wikidata": "Q144786",
+        "wikipedia": "pl:Zakopane"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.950659,
+          49.2969446
+        ]
+      },
+      "id": "node/1854937237"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:02:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253546793",
+        "alt_name:de": "Prömsel",
+        "name": "Przemyśl",
+        "name:be": "Пшэмысль",
+        "name:cs": "Přemyšl",
+        "name:de": "Premissel",
+        "name:ja": "プシェムィシル",
+        "name:lt": "Peremyšlis",
+        "name:mk": "Пшемишл",
+        "name:pl": "Przemyśl",
+        "name:ru": "Пшемысль",
+        "name:uk": "Перемишль",
+        "place": "city",
+        "population": "59779",
+        "postal_code": "37-700",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0971672",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1862011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q208473",
+        "wikipedia": "pl:Przemyśl"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.7698454,
+          49.7845132
+        ]
+      },
+      "id": "node/253546793"
+    }
+  ]
+}

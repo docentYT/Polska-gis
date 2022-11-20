@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:24:21Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/474593784",
+        "name": "Police",
+        "name:de": "Pölitz",
+        "name:lt": "Policės",
+        "name:pl": "Police",
+        "name:ru": "Полице",
+        "name:uk": "Поліце",
+        "place": "town",
+        "population": "34120",
+        "teryt:simc": "0979449",
+        "wikidata": "Q208022",
+        "wikipedia": "pl:Police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5657399,
+          53.5486435
+        ]
+      },
+      "id": "node/474593784"
+    }
+  ]
+}

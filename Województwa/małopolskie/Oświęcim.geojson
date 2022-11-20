@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:02:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31900891",
+        "is_in:municipality": "gmina Oświęcim",
+        "name": "Oświęcim",
+        "name:be": "Асвенцым",
+        "name:cs": "Osvětim",
+        "name:de": "Auschwitz",
+        "name:el": "Οσβιέτσιμ",
+        "name:lt": "Osvencimas",
+        "name:nl": "Auschwitz",
+        "name:no": "Auschwitz",
+        "name:pl": "Oświęcim",
+        "name:ru": "Освенцим",
+        "name:sk": "Osvienčim",
+        "name:szl": "Ôświyńcim",
+        "name:uk": "Освенцим",
+        "place": "town",
+        "population": "39664",
+        "postal_code": "32-600",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0924997",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1213011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q7342",
+        "wikipedia": "pl:Oświęcim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2214053,
+          50.0382443
+        ]
+      },
+      "id": "node/31900891"
+    }
+  ]
+}

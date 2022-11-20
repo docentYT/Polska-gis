@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:03:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31887921",
+        "name": "Tarnobrzeg",
+        "name:be": "Тарнобжаг",
+        "name:bg": "Тарнобжег",
+        "name:fa": "تارنوبزک",
+        "name:he": "טרנובז'ג",
+        "name:ja": "タルノブジェク",
+        "name:ko": "타르노브제크",
+        "name:la": "Nova Tarnovia",
+        "name:lt": "Tarnobžegas",
+        "name:lv": "Tarnobžega",
+        "name:mk": "Тарнобжег",
+        "name:pl": "Tarnobrzeg",
+        "name:ru": "Тарнобжег",
+        "name:sr": "Тарнобжег",
+        "name:szl": "Tarnobrzyg",
+        "name:tt": "Тарнобжег",
+        "name:uk": "Тарнобжег",
+        "name:yi": "דזשיקאוו",
+        "name:zh": "塔尔诺布热格",
+        "place": "city",
+        "population": "46360",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0980085",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1864011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q28516",
+        "wikipedia": "pl:Tarnobrzeg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6704871,
+          50.5715277
+        ]
+      },
+      "id": "node/31887921"
+    }
+  ]
+}

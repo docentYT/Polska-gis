@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:02:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763537494",
+        "is_in:municipality": "gmina Jasło",
+        "multi_postcode_place": "yes",
+        "name": "Jasło",
+        "name:de": "Jassel",
+        "name:lt": "Jaslas",
+        "name:pl": "Jasło",
+        "name:ru": "Ясло",
+        "name:uk": "Ясло",
+        "place": "town",
+        "population": "36363",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0953059",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1805011",
+        "wikidata": "Q848983",
+        "wikipedia": "pl:Jasło"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4743139,
+          49.7470465
+        ]
+      },
+      "id": "node/1763537494"
+    }
+  ]
+}

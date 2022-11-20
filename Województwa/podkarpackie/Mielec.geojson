@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:04:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31890133",
+        "description": "Miasto założone przez Jana i Bernardyna Mieleckich 18 XI 1470 r. Od połowy XIX w. regionalne centrum społeczno-gospodarcze. Szczególny wpływ na rozwój miały lotnictwo i motoryzacja. Tutejsze WSK Mielec produkowało m.in. samoloty i samochody.",
+        "name": "Mielec",
+        "name:lt": "Melecas",
+        "name:mk": "Мјелец",
+        "name:pl": "Mielec",
+        "name:ru": "Мелец",
+        "name:uk": "Мелець",
+        "place": "town",
+        "population": "60075",
+        "postal_code": "39-300",
+        "start_date": "1470-11-18",
+        "teryt:rm": "96",
+        "teryt:simc": "0974618",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1811011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q658861",
+        "wikipedia": "pl:Mielec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.4228413,
+          50.2895423
+        ]
+      },
+      "id": "node/31890133"
+    }
+  ]
+}

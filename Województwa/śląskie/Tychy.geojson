@@ -1,0 +1,55 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751621551",
+        "name": "Tychy",
+        "name:ar": "تيخي",
+        "name:az-Arab": "تیخی",
+        "name:azb": "تیخی",
+        "name:bg": "Тихи",
+        "name:crh": "Tıhı",
+        "name:de": "Tichau",
+        "name:el": "Τίχι",
+        "name:fa": "تیشی",
+        "name:ja": "ティヒ",
+        "name:ko": "티히",
+        "name:lt": "Tychos",
+        "name:lv": "Tihi",
+        "name:mk": "Тихи",
+        "name:pl": "Tychy",
+        "name:ru": "Тыхы",
+        "name:sr": "Тихи",
+        "name:th": "ทิคี",
+        "name:uk": "Тихи",
+        "name:ur": "تیچی",
+        "name:zh": "蒂黑",
+        "old_name": "Tichau Hbf",
+        "place": "city",
+        "population": "128812",
+        "postal_code": "43-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0944534",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2477011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q11977",
+        "wikipedia": "pl:Tychy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.9965933,
+          50.114397
+        ]
+      },
+      "id": "node/1751621551"
+    }
+  ]
+}

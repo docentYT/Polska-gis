@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31902385",
+        "alt_name:be": "Чанстахова",
+        "multi_postcode_place": "yes",
+        "name": "Częstochowa",
+        "name:be": "Чэнстахова",
+        "name:cs": "Čenstochová",
+        "name:de": "Tschenstochau",
+        "name:he": "צ'נסטוחובה",
+        "name:ja": "チェンストホヴァ",
+        "name:lt": "Čenstakava",
+        "name:mk": "Ченстохова",
+        "name:pl": "Częstochowa",
+        "name:ru": "Ченстохова",
+        "name:szl": "Czynstochowy",
+        "name:uk": "Ченстохова",
+        "place": "city",
+        "population": "232318",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0930868",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2464011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q103217",
+        "wikipedia": "pl:Częstochowa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.113213,
+          50.8120466
+        ]
+      },
+      "id": "node/31902385"
+    }
+  ]
+}

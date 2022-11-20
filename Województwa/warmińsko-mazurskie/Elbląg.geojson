@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:30:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31532258",
+        "name": "Elbląg",
+        "name:de": "Elbing",
+        "name:eo": "Elblongo",
+        "name:ja": "エルブロンク",
+        "name:lt": "Elbingas",
+        "name:mk": "Елблонг",
+        "name:pl": "Elbląg",
+        "name:prg": "Elbings",
+        "name:ru": "Эльблонг",
+        "name:uk": "Ельблонг",
+        "place": "city",
+        "population": "126460",
+        "postal_code": "82-300",
+        "source:population": "wikipedia",
+        "teryt:rm": "96",
+        "teryt:simc": "0932703",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2861011",
+        "teryt:updated_by": "teryt2osm combine.py v. 47M",
+        "wikidata": "Q104712",
+        "wikipedia": "pl:Elbląg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4044583,
+          54.1558708
+        ]
+      },
+      "id": "node/31532258"
+    }
+  ]
+}

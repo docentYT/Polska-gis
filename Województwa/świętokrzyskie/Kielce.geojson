@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:58:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110720553",
+        "mult_postcode_place": "yes",
+        "name": "Kielce",
+        "name:ar": "كيلسي",
+        "name:be": "Кельцы",
+        "name:bg": "Келце",
+        "name:fa": "کیلتس",
+        "name:he": "קיילצה",
+        "name:hu": "Kielce",
+        "name:ja": "キェルツェ",
+        "name:ka": "კელცე",
+        "name:ko": "키엘체",
+        "name:lt": "Kelcai",
+        "name:lv": "Kelce",
+        "name:mk": "Келце",
+        "name:pl": "Kielce",
+        "name:ru": "Кельце",
+        "name:sr": "Кјелце",
+        "name:szl": "Kelce",
+        "name:uk": "Кельце",
+        "name:yi": "קעלץ",
+        "name:zh": "凯尔采",
+        "place": "city",
+        "population": "187374",
+        "postal_code": "25-001",
+        "source": "Bing;local knowledge",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0945930",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2661011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "website": "http://www.um.kielce.pl/",
+        "wikidata": "Q102317",
+        "wikipedia": "pl:Kielce"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.6310488,
+          50.8719903
+        ]
+      },
+      "id": "node/2110720553"
+    }
+  ]
+}

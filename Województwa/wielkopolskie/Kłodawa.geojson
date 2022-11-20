@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:43:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1524210025",
+        "name": "Kłodawa",
+        "name:ru": "Клодава",
+        "name:uk": "Клодава",
+        "place": "town",
+        "population": "6721",
+        "postal_code": "62-650",
+        "source": "Wikipedia",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:simc": "0949046",
+        "wikidata": "Q988663",
+        "wikipedia": "pl:Kłodawa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.911206,
+          52.2574519
+        ]
+      },
+      "id": "node/1524210025"
+    }
+  ]
+}

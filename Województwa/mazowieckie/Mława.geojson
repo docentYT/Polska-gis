@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:40:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31574380",
+        "name": "Mława",
+        "name:de": "Mielau",
+        "name:lt": "Mlava",
+        "name:pl": "Mława",
+        "name:ru": "Млава",
+        "name:uk": "Млава",
+        "place": "town",
+        "population": "30880",
+        "postal_code": "06-500",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0930696",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1413011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "website": "http://www.mlawa.pl/",
+        "wikidata": "Q983868",
+        "wikipedia": "pl:Mława"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3831732,
+          53.1116182
+        ]
+      },
+      "id": "node/31574380"
+    }
+  ]
+}

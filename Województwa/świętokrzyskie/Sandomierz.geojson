@@ -1,0 +1,50 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:58:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31888577",
+        "is_in:county": "powiat sandomierski",
+        "is_in:municipality": "gmina Sandomierz",
+        "is_in:province": "województwo świętokrzyskie",
+        "name": "Sandomierz",
+        "name:cs": "Sandoměř",
+        "name:de": "Sandomir",
+        "name:es": "Sandomir",
+        "name:fr": "Sandomir",
+        "name:la": "Sandomiria",
+        "name:lt": "Sandomieras",
+        "name:lv": "Sandomeža",
+        "name:pl": "Sandomierz",
+        "name:pt": "Sandomir",
+        "name:ru": "Сандомир",
+        "name:sv": "Sandomir",
+        "name:szl": "Sandůmjyrz",
+        "name:uk": "Сандомир",
+        "place": "town",
+        "population": "24552",
+        "postal_code": "27-600",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0980926",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2609011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q193177",
+        "wikipedia": "pl:Sandomierz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7495055,
+          50.6793066
+        ]
+      },
+      "id": "node/31888577"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:43:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/27161819",
+        "alt_name:la": "Poznania",
+        "capital": "4",
+        "int_name": "Poznan",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Poznań",
+        "name:ar": "بوزنان",
+        "name:be": "Познань",
+        "name:cs": "Poznaň",
+        "name:de": "Posen",
+        "name:eo": "Poznano",
+        "name:fa": "پوزنان",
+        "name:he": "פוזנן",
+        "name:hu": "Poznań",
+        "name:ja": "ポズナン",
+        "name:la": "Posnania",
+        "name:lt": "Poznanė",
+        "name:lv": "Poznaņa",
+        "name:mk": "Познањ",
+        "name:pl": "Poznań",
+        "name:pt": "Posnânia",
+        "name:ru": "Познань",
+        "name:sk": "Poznaň",
+        "name:szl": "Poznanie",
+        "name:uk": "Познань",
+        "name:yi": "פּױזן",
+        "name:zh-Hans": "波茲南",
+        "name:zh-Hant": "波茲南",
+        "old_name": "Posen",
+        "place": "city",
+        "population": "548028",
+        "postal_code": "60-001",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0969400",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3064011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "website": "https://www.poznan.pl/",
+        "wikidata": "Q268",
+        "wikipedia": "pl:Poznań"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9335199,
+          52.4082663
+        ]
+      },
+      "id": "node/27161819"
+    }
+  ]
+}

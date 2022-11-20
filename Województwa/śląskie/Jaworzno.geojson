@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31901916",
+        "name": "Jaworzno",
+        "name:ar": "يافورجنو",
+        "name:be": "Явожна",
+        "name:bg": "Явожно",
+        "name:de": "Jaworzno",
+        "name:fa": "یاووژنو",
+        "name:ja": "ヤヴォジュノ",
+        "name:ko": "야보주노",
+        "name:lt": "Javožnas",
+        "name:lv": "Javožno",
+        "name:mk": "Јавожно",
+        "name:pl": "Jaworzno",
+        "name:ru": "Явожно",
+        "name:sr": "Јавожно",
+        "name:uk": "Явожно",
+        "name:zh": "亚沃日诺",
+        "place": "city",
+        "population": "93708",
+        "postal_code": "43-600",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0940335",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2468011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q158006",
+        "wikipedia": "pl:Jaworzno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2721559,
+          50.203439
+        ]
+      },
+      "id": "node/31901916"
+    }
+  ]
+}

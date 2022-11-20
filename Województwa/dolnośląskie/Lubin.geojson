@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:49:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253531511",
+        "name": "Lubin",
+        "name:de": "Lüben",
+        "name:lt": "Liubinas",
+        "name:mk": "Лубин",
+        "name:ru": "Любин",
+        "name:uk": "Любін",
+        "place": "town",
+        "population": "74053",
+        "postal_code": "59-300",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0954142",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0211011",
+        "wikidata": "Q237512",
+        "wikipedia": "pl:Lubin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2051275,
+          51.3974465
+        ]
+      },
+      "id": "node/253531511"
+    }
+  ]
+}

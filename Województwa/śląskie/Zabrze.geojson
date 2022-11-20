@@ -1,0 +1,54 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31916531",
+        "name": "Zabrze",
+        "name:bg": "Забже",
+        "name:bs": "Zabže",
+        "name:de": "Hindenburg",
+        "name:fa": "زابژه",
+        "name:he": "זאבז'ה",
+        "name:ja": "ザブジェ",
+        "name:ko": "자브제",
+        "name:lt": "Zabžas",
+        "name:lv": "Zabže",
+        "name:mk": "Забже",
+        "name:pl": "Zabrze",
+        "name:ru": "Забже",
+        "name:sr": "Забже",
+        "name:szl": "Zŏbrze",
+        "name:th": "ซาบเช",
+        "name:uk": "Забже",
+        "name:uz": "Zabje",
+        "name:zh": "扎布热",
+        "old_name:de": "Hindenburg O.S.",
+        "place": "city",
+        "population": "178357",
+        "postal_code": "41-800",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0945380",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2478011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "website": "https://www.um.zabrze.pl/",
+        "wikidata": "Q103892",
+        "wikipedia": "pl:Zabrze"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.7863749,
+          50.3086154
+        ]
+      },
+      "id": "node/31916531"
+    }
+  ]
+}

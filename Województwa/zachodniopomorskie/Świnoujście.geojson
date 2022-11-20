@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:14:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253349866",
+        "alt_name:cs": "Ústí nad Svinou",
+        "multi_postcode_place": "yes",
+        "name": "Świnoujście",
+        "name:cs": "Svinoústí",
+        "name:de": "Swinemünde",
+        "name:lt": "Svinouiscis",
+        "name:pl": "Świnoujście",
+        "name:ru": "Свиноуйсьце",
+        "name:szl": "Świnoujśće",
+        "place": "city",
+        "population": "41371",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0979722",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3263011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q41599",
+        "wikipedia": "pl:Świnoujście"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2510703,
+          53.9097477
+        ]
+      },
+      "id": "node/253349866"
+    }
+  ]
+}

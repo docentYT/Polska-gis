@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253525668",
+        "name": "Rybnik",
+        "name:el": "Ρίμπνικ",
+        "name:ja": "リブニク",
+        "name:lt": "Rybnikas",
+        "name:mk": "Рибник",
+        "name:pl": "Rybnik",
+        "name:ru": "Рыбник",
+        "name:szl": "Rybnik",
+        "name:uk": "Рибник",
+        "place": "city",
+        "population": "140173",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0942765",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2473011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q107094",
+        "wikipedia": "pl:Rybnik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5419933,
+          50.0955793
+        ]
+      },
+      "id": "node/253525668"
+    }
+  ]
+}

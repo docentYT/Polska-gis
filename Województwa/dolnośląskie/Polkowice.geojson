@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:49:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/598619294",
+        "name": "Polkowice",
+        "name:bg": "Полковице",
+        "name:cs": "Polkwis",
+        "name:de": "Polkwitz",
+        "name:he": "פולקוביצה",
+        "name:la": "Polkovitium",
+        "name:lt": "Polkovicės",
+        "name:lv": "Polkovice",
+        "name:ru": "Польковице",
+        "name:sr": "Полковице (Пољска)",
+        "name:szl": "Polkowicy",
+        "name:uk": "Польковіце",
+        "name:zh": "波爾科維采",
+        "place": "town",
+        "population": "22525",
+        "postal_code": "59-100",
+        "teryt:simc": "0954165",
+        "wikidata": "Q246685",
+        "wikipedia": "pl:Polkowice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0713371,
+          51.5039288
+        ]
+      },
+      "id": "node/598619294"
+    }
+  ]
+}

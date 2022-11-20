@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:57:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/190817334",
+        "name": "Sosnowiec",
+        "name:ar": "سوسنوفييتس",
+        "name:be": "Горад Сасновец",
+        "name:bg": "Сосновец",
+        "name:de": "Sosnowitz",
+        "name:fa": "ساسنوویتس",
+        "name:he": "סוסנוביץ",
+        "name:hy": "Սոսնովեց",
+        "name:ja": "ソスノヴィエツ",
+        "name:ko": "소스노비에츠",
+        "name:lt": "Sosnovecas",
+        "name:lv": "Sosnoveca",
+        "name:mk": "Сосновјец",
+        "name:pl": "Sosnowiec",
+        "name:ru": "Сосновец",
+        "name:sr": "Сосновјец",
+        "name:th": "ซอสนอวีแยตส์",
+        "name:tt": "Сосновец",
+        "name:uk": "Сосновець",
+        "name:yi": "סאסנאווצע",
+        "name:zh": "索斯诺维茨",
+        "place": "city",
+        "population": "197586",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0943428",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2475011",
+        "wikidata": "Q105060",
+        "wikipedia": "pl:Sosnowiec"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.1342944,
+          50.2780834
+        ]
+      },
+      "id": "node/190817334"
+    }
+  ]
+}

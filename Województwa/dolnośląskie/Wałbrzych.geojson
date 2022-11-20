@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:47:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31916711",
+        "alt_name:cs": "Valdenburk",
+        "name": "Wałbrzych",
+        "name:be": "Валбжых",
+        "name:cs": "Valbřich",
+        "name:de": "Waldenburg",
+        "name:ja": "ヴァウブジフ",
+        "name:lt": "Valbžychas",
+        "name:mk": "Валбжих",
+        "name:ru": "Валбжих",
+        "name:szl": "Wałbrzich",
+        "name:uk": "Валбжих",
+        "place": "city",
+        "population": "122927",
+        "postal_code": "58-300",
+        "source:population": "wikipedia",
+        "teryt:rm": "96",
+        "teryt:simc": "0983681",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q110732",
+        "wikipedia": "pl:Wałbrzych"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.2825424,
+          50.7659054
+        ]
+      },
+      "id": "node/31916711"
+    }
+  ]
+}

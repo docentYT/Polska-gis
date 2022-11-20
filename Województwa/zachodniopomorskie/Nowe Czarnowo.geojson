@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:23:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31585523",
+        "is_in:county": "powiat gryfiński",
+        "is_in:municipality": "gmina Gryfino",
+        "is_in:province": "województwo zachodniopomorskie",
+        "name": "Nowe Czarnowo",
+        "name:de": "Neu Zarnow",
+        "name:pl": "Nowe Czarnowo",
+        "place": "village",
+        "population": "660",
+        "postal_code": "74-105",
+        "source:population": "wikipedia",
+        "teryt:rm": "01",
+        "teryt:simc": "0776380",
+        "teryt:stan_na": "2009-01-01",
+        "wikidata": "Q7066426",
+        "wikipedia": "pl:Nowe Czarnowo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.49256,
+          53.19691
+        ]
+      },
+      "id": "node/31585523"
+    }
+  ]
+}

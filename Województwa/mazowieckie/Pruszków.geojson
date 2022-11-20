@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:40:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31689160",
+        "multi_postcode_place": "yes",
+        "name": "Pruszków",
+        "name:lt": "Pruškuvas",
+        "name:mk": "Прушкув",
+        "name:pl": "Pruszków",
+        "name:ru": "Прушкув",
+        "name:uk": "Прушкув",
+        "place": "town",
+        "population": "59570",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0921510",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1421021",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q721937",
+        "wikipedia": "pl:Pruszków"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.8080199,
+          52.1626141
+        ]
+      },
+      "id": "node/31689160"
+    }
+  ]
+}

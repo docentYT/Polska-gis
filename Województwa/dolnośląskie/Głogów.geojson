@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:49:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1758659813",
+        "name": "Głogów",
+        "name:de": "Glogau",
+        "name:la": "Glogovia",
+        "name:lt": "Gloguvas",
+        "name:mk": "Глогув",
+        "name:pl": "Głogów",
+        "name:ru": "Глогув",
+        "name:szl": "Gogōw",
+        "name:uk": "Ґлоґув",
+        "place": "town",
+        "population": "68997",
+        "postal_code": "67-200",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0954082",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0203011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q66013",
+        "wikipedia": "pl:Głogów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0935567,
+          51.6636791
+        ]
+      },
+      "id": "node/1758659813"
+    }
+  ]
+}

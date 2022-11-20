@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:31:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31524789",
+        "is_in:municipality": "gmina Giżycko",
+        "name": "Giżycko",
+        "name:de": "Lötzen",
+        "name:lt": "Lėcius",
+        "name:pl": "Giżycko",
+        "name:ru": "Гижицко",
+        "name:uk": "Гіжицько",
+        "place": "town",
+        "population": "29947",
+        "postal_code": "11-500",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0977692",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2806011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q841356",
+        "wikipedia": "pl:Giżycko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7713092,
+          54.040092
+        ]
+      },
+      "id": "node/31524789"
+    }
+  ]
+}

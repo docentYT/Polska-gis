@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:00:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253543591",
+        "name": "Chełm",
+        "name:be": "Хэлм",
+        "name:he": "חלם",
+        "name:ja": "ヘウム",
+        "name:lt": "Chelmas",
+        "name:mk": "Хелм",
+        "name:pl": "Chełm",
+        "name:ru": "Хелм",
+        "name:uk": "Холм",
+        "name:zh": "海乌姆",
+        "place": "city",
+        "population": "108311",
+        "postal_code": "22-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0929902",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0662011",
+        "wikidata": "Q234184",
+        "wikipedia": "pl:Chełm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4711548,
+          51.1339221
+        ]
+      },
+      "id": "node/253543591"
+    }
+  ]
+}

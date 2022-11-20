@@ -1,0 +1,70 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:27:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26432122",
+        "capital": "4",
+        "multi_postcode_place": "yes",
+        "name": "Gdańsk",
+        "name:af": "Gdansk",
+        "name:ar": "غدانسك",
+        "name:ast": "Gdansk",
+        "name:azb": "گدانسک",
+        "name:be": "Гданьск",
+        "name:ckb": "گدانسک",
+        "name:cs": "Gdaňsk",
+        "name:csb": "Gduńsk",
+        "name:de": "Danzig",
+        "name:el": "Γκντανσκ",
+        "name:en": "Gdansk",
+        "name:eo": "Gdansko",
+        "name:fa": "گدانسک",
+        "name:he": "גדנסק",
+        "name:hu": "Gdańsk",
+        "name:it": "Danzica",
+        "name:ja": "グダニスク",
+        "name:la": "Gedanum",
+        "name:lt": "Gdanskas",
+        "name:lv": "Gdaņska",
+        "name:mk": "Гдањск",
+        "name:nds": "Danzig",
+        "name:pl": "Gdańsk",
+        "name:pnb": "گدانسک",
+        "name:pt": "Danzigue",
+        "name:ru": "Гданьск",
+        "name:sk": "Gdaňsk",
+        "name:sl": "Gdansk",
+        "name:uk": "Гданськ",
+        "name:ur": "گدانسک",
+        "name:zh": "格但斯克",
+        "name:zh-Hans": "格但斯克",
+        "name:zh-Hant": "格但斯克",
+        "old_name:la": "Dantiscum",
+        "old_name:nl": "Dantzig;Danswijk",
+        "place": "city",
+        "population": "461935",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0933016",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2261011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q1792",
+        "wikipedia": "pl:Gdańsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6540231,
+          54.3482908
+        ]
+      },
+      "id": "node/26432122"
+    }
+  ]
+}

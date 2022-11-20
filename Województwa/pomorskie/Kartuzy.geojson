@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:28:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/24981918",
+        "name": "Kartuzy",
+        "name:csb": "Kartuzë",
+        "name:de": "Karthaus",
+        "name:lt": "Kartūzai",
+        "name:pl": "Kartuzy",
+        "name:ru": "Картузы",
+        "name:uk": "Картузи",
+        "place": "town",
+        "population": "14186",
+        "postal_code": "83-300",
+        "source:population": "https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ stan na 2021-06-31",
+        "teryt:rm": "96",
+        "teryt:simc": "0934547",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q640355",
+        "wikipedia": "pl:Kartuzy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1973639,
+          54.3342281
+        ]
+      },
+      "id": "node/24981918"
+    }
+  ]
+}

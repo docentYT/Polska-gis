@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:03:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1763537504",
+        "addr:postcode": "38-400",
+        "name": "Krosno",
+        "name:be": "Кросна",
+        "name:de": "Krossen",
+        "name:ja": "クロスノ",
+        "name:lt": "Krosnas",
+        "name:pl": "Krosno",
+        "name:ru": "Кросно",
+        "name:uk": "Кросно",
+        "place": "city",
+        "population": "46600",
+        "postal_code": "38-400",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0952410",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1861011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q826068",
+        "wikipedia": "pl:Krosno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.7651458,
+          49.6938045
+        ]
+      },
+      "id": "node/1763537504"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:01:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/248045354",
+        "is_in:county": "powiat bocheński",
+        "is_in:municipality": "gmina Bochnia",
+        "is_in:province": "województwo małopolskie",
+        "name": "Bochnia",
+        "name:de": "Salzberg",
+        "name:lt": "Bochnia",
+        "name:pl": "Bochnia",
+        "name:ru": "Бохня",
+        "name:uk": "Бохня",
+        "place": "town",
+        "population": "30219",
+        "postal_code": "32-700",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0981682",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1201011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q815903",
+        "wikipedia": "pl:Bochnia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.430541,
+          49.9693563
+        ]
+      },
+      "id": "node/248045354"
+    }
+  ]
+}

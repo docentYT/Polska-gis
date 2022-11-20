@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:43:38Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253530808",
+        "name": "Konin",
+        "name:lt": "Koninas",
+        "name:mk": "Коњин",
+        "name:pl": "Konin",
+        "name:ru": "Конин",
+        "name:sr": "Конин",
+        "name:szl": "Kůńin",
+        "name:uk": "Конін",
+        "place": "city",
+        "population": "77224",
+        "postal_code": "62-500",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0948667",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3062011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q52845",
+        "wikipedia": "pl:Konin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2521112,
+          52.2301933
+        ]
+      },
+      "id": "node/253530808"
+    }
+  ]
+}

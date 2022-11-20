@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:28:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/127571050",
+        "name": "Malbork",
+        "name:de": "Marienburg",
+        "name:lt": "Malborkas",
+        "name:pl": "Malbork",
+        "name:ru": "Мальборк",
+        "name:uk": "Мальборк",
+        "place": "town",
+        "population": "39022",
+        "postal_code": "82-200",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0932815",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2209011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q146820",
+        "wikipedia": "pl:Malbork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0348817,
+          54.0359361
+        ]
+      },
+      "id": "node/127571050"
+    }
+  ]
+}
