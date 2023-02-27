@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:58:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31898571",
+        "is_in:county": "powiat buski",
+        "is_in:municipality": "gmina Busko-Zdrój",
+        "is_in:province": "województwo świętokrzyskie",
+        "name": "Busko-Zdrój",
+        "name:pl": "Busko-Zdrój",
+        "name:ru": "Буско-Здруй",
+        "name:uk": "Буско Здруй",
+        "place": "town",
+        "population": "16694",
+        "postal_code": "28-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0946651",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q256782",
+        "wikipedia": "pl:Busko-Zdrój"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.71919,
+          50.46759
+        ]
+      },
+      "id": "node/31898571"
+    }
+  ]
+}

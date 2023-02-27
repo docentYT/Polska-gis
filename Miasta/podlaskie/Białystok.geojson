@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:33:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/60038888",
+        "capital": "4",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Białystok",
+        "name:ba": "Белосток",
+        "name:be": "Беласток",
+        "name:be-tarask": "Беласток",
+        "name:de": "Bialystok",
+        "name:en": "Białystok",
+        "name:eo": "Bjalistoko",
+        "name:es": "Białystok",
+        "name:fr": "Białystok",
+        "name:he": "ביאליסטוק",
+        "name:ja": "ビャウィストク",
+        "name:lt": "Balstogė",
+        "name:lv": "Bjalistoka",
+        "name:mk": "Бјалисток",
+        "name:pl": "Białystok",
+        "name:ru": "Белосток",
+        "name:szl": "Biołystok",
+        "name:uk": "Білосток",
+        "name:zh": "比亚韦斯托克",
+        "name:zh-Hans": "比亚韦斯托克",
+        "name:zh-Hant": "比亚韦斯托克",
+        "place": "city",
+        "population": "296401",
+        "population:date": "2021-06-30",
+        "source:population": "https://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/ludnosc-stan-i-struktura-ludnosci-oraz-ruch-naturalny-w-przekroju-terytorialnym-stan-w-dniu-30-06-2021,6,30.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0922410",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2061011",
+        "website": "https://www.bialystok.pl/",
+        "wikidata": "Q761",
+        "wikipedia": "pl:Białystok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.1591679,
+          53.132398
+        ]
+      },
+      "id": "node/60038888"
+    }
+  ]
+}

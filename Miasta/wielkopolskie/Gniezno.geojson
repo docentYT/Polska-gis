@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T20:32:22Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/158801054",
+        "name": "Gniezno",
+        "name:cs": "Hnězdno",
+        "name:de": "Gnesen",
+        "name:lt": "Gnieznas",
+        "name:mk": "Гњезно",
+        "name:pl": "Gniezno",
+        "name:ru": "Гнезно",
+        "name:szl": "Gńyzno",
+        "name:uk": "Гнезно",
+        "old_name": "Gnesen",
+        "place": "town",
+        "population": "69883",
+        "postal_code": "62-200",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0970632",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3003011",
+        "wikidata": "Q51432",
+        "wikipedia": "pl:Gniezno"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.595889,
+          52.5359736
+        ]
+      },
+      "id": "node/158801054"
+    }
+  ]
+}

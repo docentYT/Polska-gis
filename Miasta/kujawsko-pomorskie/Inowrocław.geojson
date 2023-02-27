@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:42:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/229987043",
+        "alt_name:de": "Jungbreslau",
+        "name": "Inowrocław",
+        "name:de": "Hohensalza",
+        "name:lt": "Inovroclavas",
+        "name:lv": "Inovroclava",
+        "name:mk": "Иновроцлав",
+        "name:pl": "Inowrocław",
+        "name:ru": "Иновроцлав",
+        "name:uk": "Іновроцлав",
+        "old_name:de": "Inowrazlaw",
+        "place": "town",
+        "population": "75001",
+        "postal_code": "88-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:simc": "0928989",
+        "teryt:terc": "0407011",
+        "wikidata": "Q378821",
+        "wikipedia": "pl:Inowrocław"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2595624,
+          52.7952408
+        ]
+      },
+      "id": "node/229987043"
+    }
+  ]
+}

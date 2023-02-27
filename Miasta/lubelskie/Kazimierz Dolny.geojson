@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:00:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31875542",
+        "addr:country": "PL",
+        "alt_name": "Kazimierz nad Wisłą",
+        "is_in:county": "powiat puławski",
+        "is_in:municipality": "gmina Kazimierz Dolny",
+        "is_in:province": "województwo lubelskie",
+        "name": "Kazimierz Dolny",
+        "name:pl": "Kazimierz Dolny",
+        "name:ru": "Казимеж-Дольны",
+        "name:uk": "Казімеж Дольний",
+        "place": "town",
+        "population": "2607",
+        "postal_code": "24-120",
+        "source:alt_name": "Polish Wikipedia",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0955905",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q774098",
+        "wikipedia": "pl:Kazimierz Dolny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.947372,
+          51.3220058
+        ]
+      },
+      "id": "node/31875542"
+    }
+  ]
+}

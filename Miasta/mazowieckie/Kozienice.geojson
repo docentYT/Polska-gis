@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:40:37Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2066176707",
+        "name": "Kozienice",
+        "name:lt": "Kozenicai",
+        "name:pl": "Kozienice",
+        "name:ru": "Козенице",
+        "name:uk": "Козеніце",
+        "old_name:de": "Koschnitz",
+        "place": "town",
+        "population": "18277",
+        "postal_code": "26-900",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0973524",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "kesikp",
+        "website": "http://www.kozienice.pl",
+        "wikidata": "Q990651",
+        "wikipedia": "pl:Kozienice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.549883,
+          51.5849678
+        ]
+      },
+      "id": "node/2066176707"
+    }
+  ]
+}

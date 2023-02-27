@@ -1,0 +1,58 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:41:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31337673",
+        "capital": "4",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Bydgoszcz",
+        "name:ar": "بيدغوز",
+        "name:be": "Быдгошч",
+        "name:cs": "Bydhošť",
+        "name:de": "Bromberg",
+        "name:eo": "Bidgoŝto",
+        "name:he": "בידגושץ",
+        "name:ja": "ブィドゴシュチュ",
+        "name:ko": "비드고슈치",
+        "name:la": "Bidgostia",
+        "name:lt": "Bydgoščius",
+        "name:lv": "Bidgošča",
+        "name:mk": "Бидгошч",
+        "name:pl": "Bydgoszcz",
+        "name:ru": "Быдгощ",
+        "name:sr": "Бидгошч",
+        "name:szl": "Bydgoszcz",
+        "name:uk": "Бидгощ",
+        "name:zh": "比得哥什",
+        "name:zh-Hans": "比得哥什",
+        "name:zh-Hant": "比得哥什",
+        "old_name": "Bromberg",
+        "place": "city",
+        "population": "339053",
+        "population:date": "2021-12-31",
+        "source:population": "Główny Urząd Statystyczny",
+        "teryt:rm": "96",
+        "teryt:simc": "0928363",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0461011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q41252",
+        "wikipedia": "pl:Bydgoszcz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0002529,
+          53.1219648
+        ]
+      },
+      "id": "node/31337673"
+    }
+  ]
+}

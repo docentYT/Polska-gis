@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:47:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/190630506",
+        "name": "Bogatynia",
+        "name:de": "Reichenau",
+        "name:hsb": "Rychnow",
+        "name:lv": "Bogatinja",
+        "name:pl": "Bogatynia",
+        "name:ru": "Богатыня",
+        "name:uk": "Богатиня",
+        "name:zh": "博加蒂尼亞",
+        "old_name": "Rychwałd",
+        "place": "town",
+        "population": "18030",
+        "ref:prng": "7582",
+        "url": "http://dolny-slask.org.pl/506979,Bogatynia.html",
+        "website": "http://bogatynia.pl",
+        "wikidata": "Q123438",
+        "wikipedia": "pl:Bogatynia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.9539185,
+          50.9077147
+        ]
+      },
+      "id": "node/190630506"
+    }
+  ]
+}

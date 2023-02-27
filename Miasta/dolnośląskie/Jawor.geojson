@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:49:34Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31801635",
+        "name": "Jawor",
+        "name:lt": "Javoras",
+        "name:lv": "Javora",
+        "name:prefix": "miasto",
+        "name:ru": "Явор",
+        "name:uk": "Явор",
+        "name:zh": "亚沃尔",
+        "old_name:de": "Jauer",
+        "place": "town",
+        "population": "22758",
+        "ref:prng": "45443",
+        "source": "TERYT",
+        "teryt:rm": "96",
+        "teryt:simc": "0954120",
+        "teryt:typ": "miasto",
+        "url": "https://polska-org.pl/504373,Jawor.html",
+        "website": "http://www.jawor.pl/",
+        "wikidata": "Q731805",
+        "wikipedia": "pl:Jawor (miasto)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1932008,
+          51.0504653
+        ]
+      },
+      "id": "node/31801635"
+    }
+  ]
+}

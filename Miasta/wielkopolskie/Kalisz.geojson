@@ -1,0 +1,43 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:44:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1697928657",
+        "name": "Kalisz",
+        "name:de": "Kalisch",
+        "name:he": "קאַליש",
+        "name:ja": "カリシュ",
+        "name:la": "Calisia",
+        "name:lt": "Kališas",
+        "name:lv": "Kališa",
+        "name:mk": "Калиш",
+        "name:pl": "Kalisz",
+        "name:ru": "Калишь",
+        "name:uk": "Каліш",
+        "place": "city",
+        "population": "103997",
+        "postal_code": "62-800",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0936569",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3061011",
+        "wikidata": "Q52842",
+        "wikipedia": "pl:Kalisz"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0895358,
+          51.7624752
+        ]
+      },
+      "id": "node/1697928657"
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:56:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31879926",
+        "is_in:county": "powiat pabianicki",
+        "is_in:municipality": "gmina Pabianice",
+        "is_in:province": "województwo łódzkie",
+        "name": "Pabianice",
+        "name:ba": "Пабьянице",
+        "name:de": "Pabianitz",
+        "name:lt": "Pabianicės",
+        "name:mk": "Пабјањице",
+        "name:pl": "Pabianice",
+        "name:ru": "Пабьянице",
+        "name:uk": "Паб’яніце",
+        "place": "town",
+        "population": "67688",
+        "postal_code": "95-200",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0959079",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1008021",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q158589",
+        "wikipedia": "pl:Pabianice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3535024,
+          51.6639859
+        ]
+      },
+      "id": "node/31879926"
+    }
+  ]
+}

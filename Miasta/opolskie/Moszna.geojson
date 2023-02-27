@@ -1,0 +1,30 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:54:49Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/692611608",
+        "name": "Moszna",
+        "name:de": "Moschen",
+        "name:pl": "Moszna",
+        "place": "village",
+        "postal_code": "47-370",
+        "teryt:simc": "0503534",
+        "wikidata": "Q1004793",
+        "wikipedia": "pl:Moszna (województwo opolskie)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7673891,
+          50.436794
+        ]
+      },
+      "id": "node/692611608"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:55:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30094969",
+        "capital": "4",
+        "int_name": "Lodz",
+        "multi_postcode_place": "yes",
+        "name": "Łódź",
+        "name:ar": "وودج",
+        "name:cs": "Lodž",
+        "name:de": "Lodz",
+        "name:eo": "Lodzo",
+        "name:es": "Lodz",
+        "name:ja": "ウッチ",
+        "name:ko": "우치",
+        "name:la": "Lodzia",
+        "name:lt": "Lodzė",
+        "name:lv": "Lodza",
+        "name:mk": "Лоѓ",
+        "name:pl": "Łódź",
+        "name:pt": "Lódz",
+        "name:ru": "Лодзь",
+        "name:sk": "Lodž",
+        "name:szl": "Łōdź",
+        "name:uk": "Лодзь",
+        "name:zh-Hans": "罗兹",
+        "name:zh-Hant": "羅茲",
+        "old_name": "Litzmannstadt",
+        "place": "city",
+        "population": "711332",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0957650",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1061011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q580",
+        "wikipedia": "pl:Łódź"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4569911,
+          51.7687323
+        ]
+      },
+      "id": "node/30094969"
+    }
+  ]
+}

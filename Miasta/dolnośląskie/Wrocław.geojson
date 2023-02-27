@@ -1,0 +1,64 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:47:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418392093",
+        "capital": "4",
+        "multi_postcode_place": "yes",
+        "name": "Wrocław",
+        "name:ar": "فروتزواف",
+        "name:ast": "Wroclaw",
+        "name:be": "Уроцлаў",
+        "name:bg": "Вроцлав",
+        "name:cs": "Vratislav",
+        "name:dative": "Wrocławiu",
+        "name:de": "Breslau",
+        "name:en": "Wrocław",
+        "name:eo": "Vroclavo",
+        "name:es": "Breslavia",
+        "name:fr": "Wroclaw",
+        "name:he": "ורוצלב",
+        "name:hsb": "Wrócław",
+        "name:hu": "Boroszló",
+        "name:it": "Breslavia",
+        "name:ja": "ヴロツワフ",
+        "name:la": "Vratislavia",
+        "name:lt": "Vroclavas",
+        "name:lv": "Vroclava",
+        "name:mk": "Вроцлав",
+        "name:pl": "Wrocław",
+        "name:pt": "Breslávia",
+        "name:ru": "Вроцлав",
+        "name:sk": "Vroclav",
+        "name:sr": "Вроцлав",
+        "name:szl": "Wrŏcłōw",
+        "name:uk": "Вроцлав",
+        "name:yi": "ברעסלוי",
+        "name:zh": "弗罗茨瓦夫",
+        "name:zh-Hans": "弗罗茨瓦夫",
+        "name:zh-Hant": "弗次瓦夫",
+        "place": "city",
+        "population": "634487",
+        "postal_code": "50-001",
+        "source:population": "http://demografia.stat.gov.pl/bazademografia/Tables.aspx.",
+        "teryt:simc": "0986283",
+        "teryt:terc": "0264011",
+        "wikidata": "Q1799",
+        "wikipedia": "pl:Wrocław"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0326689,
+          51.1089776
+        ]
+      },
+      "id": "node/418392093"
+    }
+  ]
+}

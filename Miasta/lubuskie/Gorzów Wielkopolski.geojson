@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:45:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/357913636",
+        "ele": "19",
+        "name": "Gorzów Wielkopolski",
+        "name:be": "Гожаў",
+        "name:de": "Landsberg an der Warthe",
+        "name:ja": "ゴジュフ・ヴィエルコポルスキ",
+        "name:lt": "Gožuvas",
+        "name:mk": "Гожув Вјелкополски",
+        "name:ru": "Гожув-Велькопольски",
+        "name:szl": "Gorzůw Wjelgopolski",
+        "name:uk": "Ґожув-Велькопольський",
+        "old_name": "Gorzów nad Wartą",
+        "place": "city",
+        "population": "124344",
+        "postal_code": "66-400",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0935140",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0861011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q104731",
+        "wikipedia": "pl:Gorzów Wielkopolski"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2400451,
+          52.7309926
+        ]
+      },
+      "id": "node/357913636"
+    }
+  ]
+}

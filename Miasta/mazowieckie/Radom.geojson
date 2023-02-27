@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:41:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31867745",
+        "multi_postcode_place": "yes",
+        "name": "Radom",
+        "name:eo": "Radomo",
+        "name:ja": "ラドム",
+        "name:lt": "Radomas",
+        "name:mk": "Радом",
+        "name:pl": "Radom",
+        "name:ru": "Радом",
+        "name:szl": "Radům",
+        "name:uk": "Радом",
+        "place": "city",
+        "population": "218466",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0972750",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1463011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q104740",
+        "wikipedia": "pl:Radom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.1541546,
+          51.4022557
+        ]
+      },
+      "id": "node/31867745"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:28:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30981926",
+        "name": "Łeba",
+        "name:de": "Leba",
+        "name:lt": "Leba",
+        "name:pl": "Łeba",
+        "name:ru": "Леба",
+        "name:uk": "Леба",
+        "place": "town",
+        "population": "3824",
+        "postal_code": "84-360",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0977380",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2208021",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q345339",
+        "wikipedia": "pl:Łeba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.555417,
+          54.7585207
+        ]
+      },
+      "id": "node/30981926"
+    }
+  ]
+}

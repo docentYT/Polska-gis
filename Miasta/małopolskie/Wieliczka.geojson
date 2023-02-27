@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:01:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31943878",
+        "addr:city": "Wieliczka",
+        "name": "Wieliczka",
+        "name:de": "Groß Salze",
+        "name:lt": "Velička",
+        "name:pl": "Wieliczka",
+        "name:ru": "Величка",
+        "place": "town",
+        "population": "21676",
+        "postal_code": "32-020",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0952232",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q472621",
+        "wikipedia": "pl:Wieliczka"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.0602114,
+          49.9823773
+        ]
+      },
+      "id": "node/31943878"
+    }
+  ]
+}

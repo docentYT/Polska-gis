@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:04:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/39392569",
+        "name": "Sanok",
+        "name:de": "Saanig",
+        "name:lt": "Sanokas",
+        "name:pl": "Sanok",
+        "name:ru": "Санок",
+        "name:uk": "Сянік",
+        "place": "town",
+        "population": "39027",
+        "postal_code": "38-500",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0953510",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1817011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q201729",
+        "wikipedia": "pl:Sanok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.207028,
+          49.5609053
+        ]
+      },
+      "id": "node/39392569"
+    }
+  ]
+}

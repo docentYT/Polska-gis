@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:29:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/524124149",
+        "name": "Hel",
+        "name:de": "Hela",
+        "name:pl": "Hel",
+        "name:ru": "Хел",
+        "name:uk": "Хел",
+        "place": "town",
+        "population": "3491",
+        "postal_code": "84-150",
+        "teryt:simc": "0934501",
+        "wikidata": "Q848973",
+        "wikipedia": "pl:Hel (miasto)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.8027076,
+          54.6066432
+        ]
+      },
+      "id": "node/524124149"
+    }
+  ]
+}

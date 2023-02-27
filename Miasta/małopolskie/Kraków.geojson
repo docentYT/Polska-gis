@@ -1,0 +1,71 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:00:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1838666975",
+        "capital": "4",
+        "multi_postcode_place": "yes",
+        "name": "Kraków",
+        "name:ar": "كراكوف",
+        "name:ast": "Cracovia",
+        "name:be": "Кракаў",
+        "name:ca": "Cracòvia",
+        "name:cs": "Krakov",
+        "name:de": "Krakau",
+        "name:el": "Κρακοβία",
+        "name:en": "Krakow",
+        "name:eo": "Krakovo",
+        "name:es": "Cracovia",
+        "name:eu": "Krakovia",
+        "name:fa": "کراکوف",
+        "name:fi": "Krakova",
+        "name:fr": "Cracovie",
+        "name:hr": "Krakov",
+        "name:hu": "Krakkó",
+        "name:it": "Cracovia",
+        "name:ja": "クラクフ",
+        "name:la": "Cracovia",
+        "name:lt": "Krokuva",
+        "name:lv": "Krakova",
+        "name:mk": "Краков",
+        "name:mt": "Krakovja",
+        "name:nl": "Krakau",
+        "name:pl": "Kraków",
+        "name:pt": "Cracóvia",
+        "name:ro": "Cracovia",
+        "name:ru": "Краков",
+        "name:sk": "Krakov",
+        "name:sl": "Krakov",
+        "name:sr": "Краков",
+        "name:szl": "Krakōw",
+        "name:uk": "Краків",
+        "name:zh-Hans": "克拉科夫",
+        "name:zh-Hant": "克拉科夫",
+        "place": "city",
+        "population": "762508",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0950463",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1261011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "website": "http://krakow.pl/",
+        "wikidata": "Q31487",
+        "wikipedia": "pl:Kraków"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9368564,
+          50.0619474
+        ]
+      },
+      "id": "node/1838666975"
+    }
+  ]
+}

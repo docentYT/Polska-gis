@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:31:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31522735",
+        "is_in:county": "powiat mrągowski",
+        "is_in:municipality": "gmina Mikołajki",
+        "name": "Mikołajki",
+        "name:de": "Nikolaiken",
+        "name:lt": "Mikolaikos",
+        "name:pl": "Mikołajki",
+        "name:ru": "Миколайки",
+        "name:uk": "Міколайкі",
+        "place": "town",
+        "population": "3883",
+        "postal_code": "11-730",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0977723",
+        "teryt:stan_na": "2009-01-01",
+        "wikidata": "Q984462",
+        "wikipedia": "pl:Mikołajki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.5772462,
+          53.7981816
+        ]
+      },
+      "id": "node/31522735"
+    }
+  ]
+}

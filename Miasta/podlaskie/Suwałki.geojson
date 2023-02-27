@@ -1,0 +1,44 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:33:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31518965",
+        "name": "Suwałki",
+        "name:be": "Сувалкі",
+        "name:de": "Suwalken",
+        "name:ja": "スヴァウキ",
+        "name:lt": "Suvalkai",
+        "name:lv": "Suvalki",
+        "name:mk": "Сувалки",
+        "name:pl": "Suwałki",
+        "name:ru": "Сувалки",
+        "name:uk": "Сувалки",
+        "old_name": "Sudauen",
+        "place": "city",
+        "population": "69317",
+        "postal_code": "16-400",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0977456",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2063011",
+        "website": "https://www.um.suwalki.pl/",
+        "wikidata": "Q236083",
+        "wikipedia": "pl:Suwałki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.9279363,
+          54.0990636
+        ]
+      },
+      "id": "node/31518965"
+    }
+  ]
+}

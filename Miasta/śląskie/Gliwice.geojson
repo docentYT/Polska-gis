@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:56:50Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/28900665",
+        "name": "Gliwice",
+        "name:ar": "غليفيتسه",
+        "name:be": "Глівіцы",
+        "name:bg": "Гливице",
+        "name:cs": "Hlivice",
+        "name:de": "Gleiwitz",
+        "name:fa": "گلیویتسه",
+        "name:ja": "グリヴィツェ",
+        "name:ko": "글리비체",
+        "name:lt": "Glivicės",
+        "name:lv": "Glivice",
+        "name:mk": "Гливице",
+        "name:pl": "Gliwice",
+        "name:ru": "Гливице",
+        "name:sr": "Гљивице",
+        "name:szl": "Glywice",
+        "name:uk": "Глівіце",
+        "name:zh": "格利维采",
+        "old_name:de": "Gleiwitz",
+        "place": "city",
+        "population": "185450",
+        "postal_code": "44-100",
+        "source:population": "http://www.stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5468/6/12/1/lu_ludnosc_stan_struktura_31-12-2013.pdf",
+        "teryt:rm": "96",
+        "teryt:simc": "0940000",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2466011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q105084",
+        "wikipedia": "pl:Gliwice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.6657306,
+          50.294113
+        ]
+      },
+      "id": "node/28900665"
+    }
+  ]
+}

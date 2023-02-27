@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:59:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/30014556",
+        "capital": "4",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Lublin",
+        "name:be": "Люблін",
+        "name:el": "Λούμπλιν",
+        "name:en": "Lublin",
+        "name:fa": "لوبلین",
+        "name:he": "לובלין",
+        "name:ja": "ルブリン",
+        "name:lt": "Liublinas",
+        "name:mk": "Лублин",
+        "name:pl": "Lublin",
+        "name:ru": "Люблин",
+        "name:uk": "Люблін",
+        "place": "city",
+        "population": "340466",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2017-r-,7,14.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0954700",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0663011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q37333",
+        "wikipedia": "pl:Lublin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.5701022,
+          51.250559
+        ]
+      },
+      "id": "node/30014556"
+    }
+  ]
+}

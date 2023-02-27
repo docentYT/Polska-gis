@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:31:24Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/32566103",
+        "multi_postcode_place": "yes",
+        "name": "Olsztyn",
+        "name:be": "Ольштын",
+        "name:cs": "Olštýn",
+        "name:de": "Allenstein",
+        "name:eo": "Olŝtino",
+        "name:ja": "オルシュティン",
+        "name:lt": "Alnaštynas",
+        "name:lv": "Olština",
+        "name:mk": "Олштин",
+        "name:pl": "Olsztyn",
+        "name:ru": "Ольштын",
+        "name:szl": "Uolsztyn",
+        "name:uk": "Ольштин",
+        "place": "city",
+        "population": "174675",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0964465",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2862011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q82765",
+        "wikipedia": "pl:Olsztyn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.476507,
+          53.7766839
+        ]
+      },
+      "id": "node/32566103"
+    }
+  ]
+}

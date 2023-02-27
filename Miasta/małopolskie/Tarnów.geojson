@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:01:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34811728",
+        "name": "Tarnów",
+        "name:be": "Тарнаў",
+        "name:cs": "Tarnov",
+        "name:de": "Tarnau",
+        "name:ja": "タルヌフ",
+        "name:lt": "Tarnuvas",
+        "name:mk": "Тарнув",
+        "name:pl": "Tarnów",
+        "name:ru": "Тарнув",
+        "name:szl": "Tarnůw",
+        "name:uk": "Тарнув",
+        "name:zh": "塔爾努夫",
+        "place": "city",
+        "population": "112120",
+        "postal_code": "33-100",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0981570",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1263011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q106281",
+        "wikipedia": "pl:Tarnów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9880739,
+          50.0123784
+        ]
+      },
+      "id": "node/34811728"
+    }
+  ]
+}

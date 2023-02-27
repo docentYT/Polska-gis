@@ -1,0 +1,67 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:12:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26553042",
+        "capital": "4",
+        "ele": "1",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Szczecin",
+        "name:ar": "شتتين",
+        "name:az": "Şetsin",
+        "name:be": "Шчэцін",
+        "name:bg": "Шчечин",
+        "name:cs": "Štětín",
+        "name:da": "Stettin",
+        "name:de": "Stettin",
+        "name:el": "Στσέτσιν",
+        "name:eo": "Ŝĉecino",
+        "name:fa": "شچچین",
+        "name:fo": "Stettin",
+        "name:he": "שצ'צ'ין",
+        "name:hsb": "Šćećin",
+        "name:it": "Stettino",
+        "name:ja": "シュチェチン",
+        "name:ka": "შჩეცინი",
+        "name:kn": "ಶ್ಚೆಟ್ಸಿನ್",
+        "name:ko": "슈체친",
+        "name:la": "Stettinum",
+        "name:lt": "Ščecinas",
+        "name:lv": "Ščecina",
+        "name:mk": "Шчеќин",
+        "name:nds": "Stettin",
+        "name:pt": "Estetino",
+        "name:ru": "Щецин",
+        "name:sk": "Štetín",
+        "name:szl": "Sztetin",
+        "name:uk": "Щецин",
+        "old_name:fr": "Stettin",
+        "place": "city",
+        "population": "402465",
+        "postal_code": "70-018",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0977976",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3262011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q393",
+        "wikipedia": "pl:Szczecin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.5509623,
+          53.4301818
+        ]
+      },
+      "id": "node/26553042"
+    }
+  ]
+}

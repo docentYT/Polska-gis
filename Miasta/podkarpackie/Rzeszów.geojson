@@ -1,0 +1,48 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:02:53Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/34662230",
+        "alt_name:uk": "Же́шув",
+        "is_in:country": "Poland",
+        "multi_postcode_place": "yes",
+        "name": "Rzeszów",
+        "name:be": "Жэшаў",
+        "name:cs": "Řešov",
+        "name:de": "Resche",
+        "name:ja": "ジェシュフ",
+        "name:la": "Resovia",
+        "name:lt": "Žešuvas",
+        "name:mk": "Жешув",
+        "name:pl": "Rzeszów",
+        "name:ru": "Жешув",
+        "name:szl": "Rzeszůw",
+        "name:uk": "Ряшів",
+        "name:yi": "רײַשע",
+        "place": "city",
+        "population": "197863",
+        "source:population": "wikipedia",
+        "teryt:rm": "96",
+        "teryt:simc": "0974133",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1863011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q598",
+        "wikipedia": "pl:Rzeszów"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.0047174,
+          50.0374531
+        ]
+      },
+      "id": "node/34662230"
+    }
+  ]
+}

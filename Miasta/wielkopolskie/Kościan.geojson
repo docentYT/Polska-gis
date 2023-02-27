@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:45:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/31620899",
+        "is_in:county": "powiat kościański",
+        "is_in:municipality": "gmina Kościan",
+        "is_in:province": "województwo wielkopolskie",
+        "name": "Kościan",
+        "name:de": "Kosten",
+        "name:lt": "Koscianas",
+        "name:pl": "Kościan",
+        "name:ru": "Косьцян",
+        "name:uk": "Косьцян",
+        "place": "town",
+        "population": "24011",
+        "postal_code": "64-000",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0954484",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "3011011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q52889",
+        "wikipedia": "pl:Kościan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6449995,
+          52.086325
+        ]
+      },
+      "id": "node/31620899"
+    }
+  ]
+}

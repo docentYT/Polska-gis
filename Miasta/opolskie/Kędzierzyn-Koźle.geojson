@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:50:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253549223",
+        "multi_postcode_place": "yes",
+        "name": "Kędzierzyn-Koźle",
+        "name:de": "Kandrzin-Cosel",
+        "name:lt": "Kendzežynas-Kozlė",
+        "name:mk": "Кенѓежин-Кожле",
+        "name:pl": "Kędzierzyn-Koźle",
+        "name:ru": "Кендзежин-Козле",
+        "name:szl": "Kandzierzin-Kojźly",
+        "name:uk": "Кендзежин-Козьле",
+        "place": "town",
+        "population": "63194",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0965424",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1603011",
+        "wikidata": "Q605483",
+        "wikipedia": "pl:Kędzierzyn-Koźle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2109594,
+          50.3448836
+        ]
+      },
+      "id": "node/253549223"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:59:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253554130",
+        "is_in:county": "powiat starachowicki",
+        "is_in:municipality": "gmina Starachowice",
+        "is_in:province": "województwo świętokrzyskie",
+        "name": "Starachowice",
+        "name:bg": "Стараховице",
+        "name:el": "Σταραχοβίτσε",
+        "name:he": "סטרחוביצה",
+        "name:lt": "Starachovicės",
+        "name:lv": "Starahovice",
+        "name:mk": "Стараховице",
+        "name:pl": "Starachowice",
+        "name:ru": "Стараховице",
+        "name:sr": "Стараховице",
+        "name:tt": "Стараховице",
+        "name:uk": "Стараховіце",
+        "name:zh": "斯塔拉霍維采",
+        "place": "town",
+        "population": "51158",
+        "postal_code": "27-200",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0947930",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2611011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q751094",
+        "wikipedia": "pl:Starachowice"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0761377,
+          51.0518865
+        ]
+      },
+      "id": "node/253554130"
+    }
+  ]
+}

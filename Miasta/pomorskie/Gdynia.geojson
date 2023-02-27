@@ -1,0 +1,51 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:27:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/26432430",
+        "multi_postcode_place": "yes",
+        "name": "Gdynia",
+        "name:cs": "Gdyně",
+        "name:csb": "Gdiniô",
+        "name:de": "Gdingen",
+        "name:el": "Γδύνια",
+        "name:eo": "Gdinio",
+        "name:he": "גדיניה",
+        "name:hu": "Gdynia",
+        "name:ja": "グディニャ",
+        "name:lt": "Gdynė",
+        "name:lv": "Gdiņa",
+        "name:mk": "Гдиња",
+        "name:pl": "Gdynia",
+        "name:ru": "Гдыня",
+        "name:sk": "Gdyňa",
+        "name:szl": "Gdyńa",
+        "name:uk": "Гдиня",
+        "old_name": "Gotenhafen",
+        "place": "city",
+        "population": "248042",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0934100",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "2262011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q385",
+        "wikipedia": "pl:Gdynia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.5402738,
+          54.5164982
+        ]
+      },
+      "id": "node/26432430"
+    }
+  ]
+}

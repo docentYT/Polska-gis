@@ -1,0 +1,60 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:48:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3952721523",
+        "name": "Legnica",
+        "name:ar": "لغنيتسا",
+        "name:be": "Лягніца",
+        "name:bg": "Легница",
+        "name:cs": "Lehnice",
+        "name:de": "Liegnitz",
+        "name:fa": "لگنیتسا",
+        "name:he": "לגניצה",
+        "name:hsb": "Lěhnica",
+        "name:hy": "Լեգնիցա",
+        "name:ja": "レグニツァ",
+        "name:ko": "레그니차",
+        "name:la": "Lignitium",
+        "name:lv": "Legņica",
+        "name:mk": "Легњица",
+        "name:mn": "Легница",
+        "name:pl": "Legnica",
+        "name:prefix": "miasto",
+        "name:ru": "Легница",
+        "name:sr": "Легњица",
+        "name:szl": "Lignica",
+        "name:tt": "Легница",
+        "name:uk": "Легниця",
+        "name:zh": "萊格尼察",
+        "old_name:pl": "Lignica",
+        "place": "city",
+        "population": "99752",
+        "population:date": "2018-12-31",
+        "ref:prng": "66955",
+        "source": "TERYT",
+        "source:population": "https://bdl.stat.gov.pl/BDL/",
+        "teryt:rm": "96",
+        "teryt:simc": "0954047",
+        "teryt:typ": "miasto",
+        "url": "https://polska-org.pl/504811,Legnica.html",
+        "website": "https://portal.legnica.eu/",
+        "wikidata": "Q106274",
+        "wikipedia": "pl:Legnica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1603187,
+          51.2081617
+        ]
+      },
+      "id": "node/3952721523"
+    }
+  ]
+}

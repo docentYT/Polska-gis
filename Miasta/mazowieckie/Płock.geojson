@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:39:33Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751621527",
+        "alt_name:de": "Plotzk;Plozk",
+        "name": "Płock",
+        "name:de": "Plock",
+        "name:ja": "プウォツク",
+        "name:lt": "Plockas",
+        "name:mk": "Плоцк",
+        "name:pl": "Płock",
+        "name:ru": "Плоцк",
+        "name:uk": "Плоцьк",
+        "place": "city",
+        "population": "122815",
+        "postal_code": "09-400",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0968687",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1462011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q104725",
+        "wikipedia": "pl:Płock"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7008606,
+          52.5464521
+        ]
+      },
+      "id": "node/1751621527"
+    }
+  ]
+}

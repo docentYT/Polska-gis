@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:42:36Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1751621506",
+        "name": "Włocławek",
+        "name:de": "Leslau",
+        "name:ja": "ヴウォツワヴェク",
+        "name:lt": "Vloclavekas",
+        "name:mk": "Влоцлавек",
+        "name:pl": "Włocławek",
+        "name:ru": "Влоцлавек",
+        "name:uk": "Влоцлавек",
+        "place": "city",
+        "population": "114885",
+        "postal_code": "87-800",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0984752",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0464011",
+        "website": "http://www.wloclawek.pl/",
+        "wikidata": "Q106681",
+        "wikipedia": "pl:Włocławek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0722963,
+          52.66017
+        ]
+      },
+      "id": "node/1751621506"
+    }
+  ]
+}

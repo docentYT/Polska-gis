@@ -1,0 +1,52 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T19:00:54Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/253548556",
+        "is_in:country_code": "PL",
+        "name": "Zamość",
+        "name:ar": "زاموسك",
+        "name:be": "Замасць",
+        "name:de": "Zamosch",
+        "name:en": "Zamość",
+        "name:es": "Zamość",
+        "name:fr": "Zamość",
+        "name:he": "זמושץ'",
+        "name:ja": "ザモシチ",
+        "name:la": "Zamoscia",
+        "name:lt": "Zamostė",
+        "name:lv": "Zamosca",
+        "name:mk": "Замошќ",
+        "name:pl": "Zamość",
+        "name:ru": "Замосць",
+        "name:uk": "Замостя",
+        "name:zh": "扎莫希奇",
+        "note:de": "name:de=deutscher Name und sonst nichts!",
+        "place": "city",
+        "population": "65255",
+        "postal_code": "22-400",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0987510",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "0664011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q145972",
+        "wikipedia": "pl:Zamość"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.2525711,
+          50.7170854
+        ]
+      },
+      "id": "node/253548556"
+    }
+  ]
+}

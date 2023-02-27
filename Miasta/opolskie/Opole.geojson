@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2022-11-19T18:50:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/128054630",
+        "multi_postcode_place": "yes",
+        "name": "Opole",
+        "name:be": "Аполе",
+        "name:cs": "Opolí",
+        "name:de": "Oppeln",
+        "name:hsb": "Opole",
+        "name:ja": "オポーレ",
+        "name:lt": "Opolė",
+        "name:mk": "Ополе",
+        "name:pl": "Opole",
+        "name:ru": "Ополе",
+        "name:szl": "Ôpole",
+        "name:uk": "Ополе",
+        "name:zh": "奥波莱",
+        "place": "city",
+        "population": "120146",
+        "source:population": "http://stat.gov.pl/obszary-tematyczne/ludnosc/ludnosc/powierzchnia-i-ludnosc-w-przekroju-terytorialnym-w-2014-r-,7,11.html",
+        "teryt:rm": "96",
+        "teryt:simc": "0965016",
+        "teryt:stan_na": "2009-01-01",
+        "teryt:terc": "1661011",
+        "teryt:updated_by": "teryt2osm combine.py v. 49",
+        "wikidata": "Q92212",
+        "wikipedia": "pl:Opole"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9236408,
+          50.6668184
+        ]
+      },
+      "id": "node/128054630"
+    }
+  ]
+}
