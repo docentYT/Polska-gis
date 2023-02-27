@@ -21,7 +21,7 @@ Wybór najbardziej znanych zalewów. Każdy zalew jest w formacie `.geojson`. Up
 
 # Miasta
 ## Folder `Miasta`
-Folder zawierający popularne, znane, ważne geograficznie i atrakcyjne turystycznie miasta z podziałem na województwa. 
+Folder zawierający popularne, znane, ważne geograficznie i atrakcyjne turystycznie miasta w formacie `.geojson` z podziałem na województwa. 
 
 ## miasta.geojson
 Jest to zbiór najważniejszych/najpopularniejszych miast w Polsce:
