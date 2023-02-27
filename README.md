@@ -20,6 +20,10 @@ Wybór najbardziej znanych kanałów. Każdy kanał jest w formacie `.geojson`. 
 Wybór najbardziej znanych zalewów. Każdy zalew jest w formacie `.geojson`. Uporządkowane i ujednolicone dane z OpenStreetMap.
 
 # Miasta
+## Folder `Miasta`
+Folder zawierający popularne, znane, ważne geograficznie i atrakcyjne turystycznie miasta z podziałem na województwa. 
+
+## miasta.geojson
 Jest to zbiór najważniejszych/najpopularniejszych miast w Polsce:
 * Warszawa
 * Wrocław
